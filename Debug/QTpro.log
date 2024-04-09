@@ -1,0 +1,6 @@
+﻿  moc QTpro.h
+  QTpro.cpp
+  main.cpp
+  moc_QTpro.cpp
+QTpro.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall teacher::hungry(void)" (?hungry@teacher@@QAEXXZ)，函数 "public: void __thiscall QTpro::ClassIsOver(void)" (?ClassIsOver@QTpro@@QAEXXZ) 中引用了该符号
+E:\QTProject\QTpro\Debug\QTpro.exe : fatal error LNK1120: 1 个无法解析的外部命令
